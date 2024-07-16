@@ -1,0 +1,1 @@
+# Assignments---DDL-Statements-Insert-Statement-and-Select-clause
